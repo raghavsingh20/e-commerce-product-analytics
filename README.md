@@ -12,12 +12,12 @@ SQL analysis of Google Analytics 4 (GA4) event data from the Google Merchandise 
 
 ## Tools
 
-* **BigQuery (SQL):** data cleaning and analysis
+* **BigQuery (SQL):** Data cleaning and Analysis
 
 ## Approach
 
-1. **Data preparation:** turned Google's raw nested event data into one clean table (`events_clean`) with one row per user action.
-2. **Analysis:** wrote 15 SQL queries using CTEs, joins, CASE WHEN and window functions (LAG, ROW_NUMBER).
+1. **Data preparation:** Turned Google's raw nested event data into one clean table (`events_clean`) with one row per user action.
+2. **Analysis:** Wrote 15 SQL queries using CTEs, joins, CASE WHEN and window functions (LAG, ROW_NUMBER).
 
 ## Key Findings
 

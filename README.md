@@ -17,7 +17,7 @@ SQL analysis of Google Analytics 4 (GA4) event data from the Google Merchandise 
 ## Approach
 
 1. **Data preparation:** Turned Google's raw nested event data into one clean table (`events_clean`) with one row per user action.
-2. **Analysis:** Wrote 15 SQL queries using CTEs, joins, CASE WHEN and window functions (LAG, ROW_NUMBER).
+2. **Analysis:** Wrote 15 SQL queries using CTEs, Joins, CASE statements and Window functions (LAG, ROW_NUMBER).
 
 ## Key Findings
 

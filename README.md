@@ -1,4 +1,4 @@
-# GA4 E-commerce Funnel & Retention Analysis
+# E-commerce Product Analytics
 
 ## Overview
 

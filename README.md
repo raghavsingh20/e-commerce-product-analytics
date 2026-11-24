@@ -8,7 +8,7 @@ SQL analysis of Google Analytics 4 (GA4) event data from the Google Merchandise 
 
 * **Source:** Google's public BigQuery dataset `bigquery-public-data.ga4_obfuscated_sample_ecommerce`
 * **Period:** 1 Nov 2020 – 31 Jan 2021
-* **Contents:** user events (page views, add to cart, checkout, purchase) with device, traffic source, session and order details
+* **Contents:** User events (page views, add to cart, checkout, purchase) with device, traffic source, session and order details
 
 ## Tools
 
